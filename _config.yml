@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Abdullah Al-Battal"
   avatar           : "profile.png"
-  bio              : "A PhD student in the Video PRocessing lab of the electrical and computer engineering department at UCSD"
+  bio              : "A PhD student in the Video Processing lab of the electrical and computer engineering department at UCSD"
   location         : "San Diego, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_vM6G84AAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Abdullah_Albattal"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "trbg"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/albattal/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "trbg"
   vine             :
   weibo            :
   xing             :
