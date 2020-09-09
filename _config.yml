@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abdullah Al-Battal"
 title_separator          : "-"
 name                     : &name "Abdullah Al-Battal"
-description              : &description "A PhD student in the Video PRocessing lab of the electrical and computer engineering department at UCSD"
+description              : &description "A PhD student in the Video Processing lab of the electrical and computer engineering department at UCSD"
 url                      : https://trbg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "trbg/trbg.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Abdullah Al-Battal"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A PhD student in the Video PRocessing lab of the electrical and computer engineering department at UCSD"
+  location         : "San Diego, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=_vM6G84AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Abdullah_Albattal"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/albattal/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: False
     permalink: /:collection/:path/
   publications:
     output: true
