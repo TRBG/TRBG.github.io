@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-05-01-The Design of 2-D Explicit Depth Extrapolators Using the Cauchy Norm
 date: 2017-05-01
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/7875083'
 citation: 'A. F. Al-Battal and W. A. Mousa, "The Design of 2-D Explicit Depth Extrapolators Using the Cauchy Norm," in IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 5, pp. 3029-3036, May 2017, doi: 10.1109/TGRS.2017.2659663.'
 ---
 ## Abstract
@@ -12,4 +12,4 @@ In this paper, we present a novel method for designing explicit wavefield extrap
 
 [Access paper here](https://ieeexplore.ieee.org/document/7875083)
 
-<b>Recommended citation<\b>: A. F. Al-Battal and W. A. Mousa, "The Design of 2-D Explicit Depth Extrapolators Using the Cauchy Norm," in IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 5, pp. 3029-3036, May 2017, doi: 10.1109/TGRS.2017.2659663..
+<b>Recommended citation</b>: A. F. Al-Battal and W. A. Mousa, "The Design of 2-D Explicit Depth Extrapolators Using the Cauchy Norm," in IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 5, pp. 3029-3036, May 2017, doi: 10.1109/TGRS.2017.2659663..
