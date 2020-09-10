@@ -2,6 +2,7 @@
 title: "The Design of 2-D Explicit Depth Extrapolators Using the Cauchy Norm"
 collection: publications
 permalink: /publication/2017-05-01-The Design of 2-D Explicit Depth Extrapolators Using the Cauchy Norm
+excerpt: ''
 date: 2017-05-01
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'https://ieeexplore.ieee.org/document/7875083'
