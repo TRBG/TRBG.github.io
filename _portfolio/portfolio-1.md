@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Vagus Nerve Detection in Ultrasound Imaging"
 excerpt: "Short description of portfolio item number 1<br/><br/><img src='/images/vagus_project_outline.png' width='500' height='300'>"
 collection: portfolio
 ---
